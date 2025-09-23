@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(139, 172, 237);   
+    background-color: rgb(90, 7, 7);   
 }
 
 h1 {
-    background-color: rgb(155, 203, 245);
+    background-color: rgb(151, 21, 21);
     font-size: 50px;
     font-style: italic;
-    color: rgb(248, 251, 251);
+    color: black;
 } 
 
 h2 {
-    background-color: rgb(155, 203, 245);
+    background-color: rgb(151, 21, 21);
     font-size: 40px;
     font-style: italic;
-    color: rgb(245, 245, 242);
+    color: black;
 }
