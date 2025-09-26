@@ -1,17 +1,20 @@
 body {
-    background-color: rgb(90, 7, 7);   
+    background-color: rgb(58, 63, 152); 
+    font-style: italic; 
+    color: white;
 }
 
 h1 {
-    background-color: rgb(151, 21, 21);
+    background-color: rgb(65, 154, 228);
     font-size: 50px;
     font-style: italic;
-    color: black;
+    color: rgb(248, 247, 247);
 } 
 
 h2 {
-    background-color: rgb(151, 21, 21);
+    background-color: rgb(65, 154, 228);
     font-size: 40px;
     font-style: italic;
-    color: black;
+    color: white;
 }
+
